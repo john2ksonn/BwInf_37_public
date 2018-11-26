@@ -1,6 +1,12 @@
 from sys import stdin
 from random import randint
 
+#   _____          _     _            
+#  |_   ___      _(_)___| |_ ___ _ __ 
+#    | | \ \ /\ / | / __| __/ _ | '__|
+#    | |  \ V  V /| \__ | ||  __| |   
+#    |_|   \_/\_/ |_|___/\__\___|_|   
+
 def start():
     buff = ""
     for line in stdin:

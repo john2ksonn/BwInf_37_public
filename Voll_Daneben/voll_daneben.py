@@ -3,6 +3,12 @@ import math
 # Auszahlung berechen
 from sys import argv
 
+#  __     __    _ _     _                  _                
+#  \ \   / ___ | |   __| | __ _ _ __   ___| |__   ___ _ __  
+#   \ \ / / _ \| |  / _` |/ _` | '_ \ / _ | '_ \ / _ | '_ \ 
+#    \ V | (_) | | | (_| | (_| | | | |  __| |_) |  __| | | |
+#     \_/ \___/|_|_ \__,_|\__,_|_| |_|\___|_.__/ \___|_| |_|
+
 
 def auszahlung(guesses):
     return sum(min(abs(number - guess) for guess in guesses) for number in glueckszahlen)

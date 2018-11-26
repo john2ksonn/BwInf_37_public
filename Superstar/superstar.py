@@ -2,6 +2,14 @@ import random
 from sys import argv
 
 
+#  ____                            _             
+# / ___| _   _ _ __   ___ _ __ ___| |_ __ _ _ __ 
+# \___ \| | | | '_ \ / _ | '__/ __| __/ _` | '__|
+#  ___) | |_| | |_) |  __| |  \__ | || (_| | |   
+# |____/ \__,_| .__/ \___|_|  |___/\__\__,_|_|   
+#             |_|                                
+
+
 def folgt_niemandem(superstar, namen_liste, schon_ueberprueft):
     superstar_name = namen_liste[superstar]
     for person in namen_liste:
