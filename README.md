@@ -8,7 +8,7 @@ We solved tasks 1, 2 and 3 which are named `Superstar`, `Twist` and `Voll danebe
 * [john2ksonn](https://github.com/john2ksonn)
 
  ```
- ___        ___       __   ________
+  ___        ___       __   ________
 | _ )_ __ _|_ _|_ _  / _| |__ /__  |
 | _ \ V  V /| || ' \|  _|  |_ \ / /
 |___/\_/\_/|___|_||_|_|   |___//_/
