@@ -1,0 +1,216 @@
+Lösungen für die Beispiele von Superstar
+
+Disclamer: Die Kosten für die Abfragen variieren, da der erste Superstar zufällig ausgewählt wird
+
+Superstar 1:
+
+    Folgt Mitglied Justin Mitglied Selena?
+    Folgt Mitglied Hailey Mitglied Justin?
+    Folgt Mitglied Selena Mitglied Justin?
+    Folgt Mitglied Justin Mitglied Hailey?
+    Der Superstar ist: Justin
+    Die Abfragen kosten: 4€
+
+Superstar 2:
+
+    Folgt Mitglied Knuth Mitglied Dijkstra?
+    Folgt Mitglied Codd Mitglied Dijkstra?
+    Folgt Mitglied Turing Mitglied Dijkstra?
+    Folgt Mitglied Hoare Mitglied Dijkstra?
+    Folgt Mitglied Dijkstra Mitglied Turing?
+    Folgt Mitglied Dijkstra Mitglied Hoare?
+    Folgt Mitglied Dijkstra Mitglied Knuth?
+    Folgt Mitglied Dijkstra Mitglied Codd?
+    Der Superstar ist: Dijkstra
+    Die Abfragen kosten: 8€
+
+Superstar 3:
+
+    Folgt Mitglied Rineke Mitglied Pia?
+    Folgt Mitglied Rinus Mitglied Rineke?
+    Folgt Mitglied Sjoukje Mitglied Rinus?
+    Folgt Mitglied Edsger Mitglied Sjoukje?
+    Folgt Mitglied Jitse Mitglied Edsger?
+    Folgt Mitglied Jorrit Mitglied Edsger?
+    Folgt Mitglied Peter Mitglied Edsger?
+    Folgt Mitglied Pia Mitglied Edsger?
+    Folgt Mitglied Rineke Mitglied Edsger?
+    Folgt Mitglied Rinus Mitglied Edsger?
+    Folgt Mitglied Sjoukje Mitglied Edsger?
+    Folgt Mitglied Edsger Mitglied Jitse?
+    Der Superstar ist: niemand
+    Die Abfragen kosten: 12€
+
+Superstar 4:
+
+    Folgt Mitglied Albin Mitglied Arvid?
+    Folgt Mitglied Sixten Mitglied Albin?
+    Folgt Mitglied Marta Mitglied Sixten?
+    Folgt Mitglied Celine Mitglied Sixten?
+    Folgt Mitglied Joel Mitglied Celine?
+    Folgt Mitglied Colin Mitglied Joel?
+    Folgt Mitglied Melissa Mitglied Joel?
+    Folgt Mitglied Jonathan Mitglied Joel?
+    Folgt Mitglied August Mitglied Jonathan?
+    Folgt Mitglied Frank Mitglied Jonathan?
+    Folgt Mitglied Jack Mitglied Frank?
+    Folgt Mitglied Folke Mitglied Jack?
+    Folgt Mitglied Tuva Mitglied Folke?
+    Folgt Mitglied Isabelle Mitglied Folke?
+    Folgt Mitglied Wilmer Mitglied Folke?
+    Folgt Mitglied Isabella Mitglied Folke?
+    Folgt Mitglied Signe Mitglied Folke?
+    Folgt Mitglied Leon Mitglied Folke?
+    Folgt Mitglied Noomi Mitglied Folke?
+    Folgt Mitglied Linnea Mitglied Folke?
+    Folgt Mitglied Bianca Mitglied Folke?
+    Folgt Mitglied Gabriel Mitglied Folke?
+    Folgt Mitglied Hedvig Mitglied Folke?
+    Folgt Mitglied Alvin Mitglied Folke?
+    Folgt Mitglied Milian Mitglied Folke?
+    Folgt Mitglied Idun Mitglied Folke?
+    Folgt Mitglied Alicia Mitglied Folke?
+    Folgt Mitglied Frans Mitglied Folke?
+    Folgt Mitglied Viggo Mitglied Folke?
+    Folgt Mitglied Noel Mitglied Folke?
+    Folgt Mitglied Axel Mitglied Folke?
+    Folgt Mitglied Siri Mitglied Folke?
+    Folgt Mitglied Majken Mitglied Folke?
+    Folgt Mitglied Theo Mitglied Folke?
+    Folgt Mitglied Emelie Mitglied Folke?
+    Folgt Mitglied Oscar Mitglied Folke?
+    Folgt Mitglied Olle Mitglied Folke?
+    Folgt Mitglied Casper Mitglied Folke?
+    Folgt Mitglied Ebbe Mitglied Folke?
+    Folgt Mitglied Samuel Mitglied Folke?
+    Folgt Mitglied John Mitglied Folke?
+    Folgt Mitglied Nils Mitglied Folke?
+    Folgt Mitglied Lykke Mitglied Folke?
+    Folgt Mitglied Emilia Mitglied Folke?
+    Folgt Mitglied Ville Mitglied Folke?
+    Folgt Mitglied Ella Mitglied Folke?
+    Folgt Mitglied Leo Mitglied Folke?
+    Folgt Mitglied Selma Mitglied Folke?
+    Folgt Mitglied Oliver Mitglied Folke?
+    Folgt Mitglied Clara Mitglied Folke?
+    Folgt Mitglied Thea Mitglied Folke?
+    Folgt Mitglied Alexander Mitglied Folke?
+    Folgt Mitglied Benjamin Mitglied Folke?
+    Folgt Mitglied Joline Mitglied Folke?
+    Folgt Mitglied Harry Mitglied Folke?
+    Folgt Mitglied Saga Mitglied Folke?
+    Folgt Mitglied Erik Mitglied Folke?
+    Folgt Mitglied Levi Mitglied Folke?
+    Folgt Mitglied Cleo Mitglied Folke?
+    Folgt Mitglied Vilgot Mitglied Folke?
+    Folgt Mitglied Lucas Mitglied Folke?
+    Folgt Mitglied Svea Mitglied Folke?
+    Folgt Mitglied Sebastian Mitglied Folke?
+    Folgt Mitglied Charlie Mitglied Folke?
+    Folgt Mitglied Penny Mitglied Folke?
+    Folgt Mitglied Rut Mitglied Folke?
+    Folgt Mitglied Hanna Mitglied Folke?
+    Folgt Mitglied Melker Mitglied Folke?
+    Folgt Mitglied Liv Mitglied Folke?
+    Folgt Mitglied Ellen Mitglied Folke?
+    Folgt Mitglied Ali Mitglied Folke?
+    Folgt Mitglied Lova Mitglied Folke?
+    Folgt Mitglied Vide Mitglied Folke?
+    Folgt Mitglied Freja Mitglied Folke?
+    Folgt Mitglied Melvin Mitglied Folke?
+    Folgt Mitglied Loke Mitglied Folke?
+    Folgt Mitglied Sigge Mitglied Folke?
+    Folgt Mitglied Milton Mitglied Folke?
+    Folgt Mitglied Sofia Mitglied Folke?
+    Folgt Mitglied Arvid Mitglied Folke?
+    Folgt Mitglied Albin Mitglied Folke?
+    Folgt Mitglied Sixten Mitglied Folke?
+    Folgt Mitglied Marta Mitglied Folke?
+    Folgt Mitglied Celine Mitglied Folke?
+    Folgt Mitglied Joel Mitglied Folke?
+    Folgt Mitglied Colin Mitglied Folke?
+    Folgt Mitglied Melissa Mitglied Folke?
+    Folgt Mitglied Jonathan Mitglied Folke?
+    Folgt Mitglied August Mitglied Folke?
+    Folgt Mitglied Frank Mitglied Folke?
+    Folgt Mitglied Jack Mitglied Folke?
+    Folgt Mitglied Folke Mitglied Hanna?
+    Folgt Mitglied Folke Mitglied Melker?
+    Folgt Mitglied Folke Mitglied Liv?
+    Folgt Mitglied Folke Mitglied Ellen?
+    Folgt Mitglied Folke Mitglied Ali?
+    Folgt Mitglied Folke Mitglied Lova?
+    Folgt Mitglied Folke Mitglied Vide?
+    Folgt Mitglied Folke Mitglied Freja?
+    Folgt Mitglied Folke Mitglied Melvin?
+    Folgt Mitglied Folke Mitglied Loke?
+    Folgt Mitglied Folke Mitglied Sigge?
+    Folgt Mitglied Folke Mitglied Milton?
+    Folgt Mitglied Folke Mitglied Sofia?
+    Folgt Mitglied Folke Mitglied Arvid?
+    Folgt Mitglied Folke Mitglied Albin?
+    Folgt Mitglied Folke Mitglied Sixten?
+    Folgt Mitglied Folke Mitglied Marta?
+    Folgt Mitglied Folke Mitglied Celine?
+    Folgt Mitglied Folke Mitglied Joel?
+    Folgt Mitglied Folke Mitglied Colin?
+    Folgt Mitglied Folke Mitglied Melissa?
+    Folgt Mitglied Folke Mitglied Jonathan?
+    Folgt Mitglied Folke Mitglied August?
+    Folgt Mitglied Folke Mitglied Frank?
+    Folgt Mitglied Folke Mitglied Tuva?
+    Folgt Mitglied Folke Mitglied Isabelle?
+    Folgt Mitglied Folke Mitglied Wilmer?
+    Folgt Mitglied Folke Mitglied Isabella?
+    Folgt Mitglied Folke Mitglied Signe?
+    Folgt Mitglied Folke Mitglied Leon?
+    Folgt Mitglied Folke Mitglied Noomi?
+    Folgt Mitglied Folke Mitglied Linnea?
+    Folgt Mitglied Folke Mitglied Bianca?
+    Folgt Mitglied Folke Mitglied Gabriel?
+    Folgt Mitglied Folke Mitglied Hedvig?
+    Folgt Mitglied Folke Mitglied Alvin?
+    Folgt Mitglied Folke Mitglied Milian?
+    Folgt Mitglied Folke Mitglied Idun?
+    Folgt Mitglied Folke Mitglied Alicia?
+    Folgt Mitglied Folke Mitglied Frans?
+    Folgt Mitglied Folke Mitglied Viggo?
+    Folgt Mitglied Folke Mitglied Noel?
+    Folgt Mitglied Folke Mitglied Axel?
+    Folgt Mitglied Folke Mitglied Siri?
+    Folgt Mitglied Folke Mitglied Majken?
+    Folgt Mitglied Folke Mitglied Theo?
+    Folgt Mitglied Folke Mitglied Emelie?
+    Folgt Mitglied Folke Mitglied Oscar?
+    Folgt Mitglied Folke Mitglied Olle?
+    Folgt Mitglied Folke Mitglied Casper?
+    Folgt Mitglied Folke Mitglied Ebbe?
+    Folgt Mitglied Folke Mitglied Samuel?
+    Folgt Mitglied Folke Mitglied John?
+    Folgt Mitglied Folke Mitglied Nils?
+    Folgt Mitglied Folke Mitglied Lykke?
+    Folgt Mitglied Folke Mitglied Emilia?
+    Folgt Mitglied Folke Mitglied Ville?
+    Folgt Mitglied Folke Mitglied Ella?
+    Folgt Mitglied Folke Mitglied Leo?
+    Folgt Mitglied Folke Mitglied Selma?
+    Folgt Mitglied Folke Mitglied Oliver?
+    Folgt Mitglied Folke Mitglied Clara?
+    Folgt Mitglied Folke Mitglied Thea?
+    Folgt Mitglied Folke Mitglied Alexander?
+    Folgt Mitglied Folke Mitglied Benjamin?
+    Folgt Mitglied Folke Mitglied Joline?
+    Folgt Mitglied Folke Mitglied Harry?
+    Folgt Mitglied Folke Mitglied Saga?
+    Folgt Mitglied Folke Mitglied Erik?
+    Folgt Mitglied Folke Mitglied Levi?
+    Folgt Mitglied Folke Mitglied Cleo?
+    Folgt Mitglied Folke Mitglied Vilgot?
+    Folgt Mitglied Folke Mitglied Lucas?
+    Folgt Mitglied Folke Mitglied Svea?
+    Folgt Mitglied Folke Mitglied Sebastian?
+    Folgt Mitglied Folke Mitglied Charlie?
+    Folgt Mitglied Folke Mitglied Penny?
+    Folgt Mitglied Folke Mitglied Rut?
+    Der Superstar ist: Folke
+    Die Abfragen kosten: 169€
